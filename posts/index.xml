@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 3mptyb0x</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on 3mptyb0x</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Oct 2021 13:21:38 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Third Post</title>
+      <link>/posts/my-third-post/</link>
+      <pubDate>Tue, 05 Oct 2021 13:21:38 +0200</pubDate>
+      
+      <guid>/posts/my-third-post/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>
